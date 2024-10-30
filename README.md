@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpan-Raj-Raut
-- 👀 I’m interested in Mobile Application Development and Artificial Intelligence.
-- 🌱 I’m currently learning Mobile Application Development.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
